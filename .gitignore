@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.agents
+TESTS-1
+EXPLICACAO_IMPLEMENTACAO.md
