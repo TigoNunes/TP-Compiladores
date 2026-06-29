@@ -1,0 +1,4 @@
+# Runtime dependencies
+# The interpreter uses only Python's standard library.
+#
+# Recommended Python version: 3.11+
